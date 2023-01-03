@@ -62,7 +62,7 @@ local GunSettings = {
 
     ["Revolver"] = {
 
-        ["FOV"] = 7.8
+        ["FOV"] = 9.5
     },
 
     ["SMG"] = {
