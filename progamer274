@@ -44,7 +44,7 @@ local GunSettings = {
 
     ["Double-Barrel SG"] = { --// dh
 
-        ["FOV"] = 6
+        ["FOV"] = 13.2
 
     },
 
@@ -62,7 +62,7 @@ local GunSettings = {
 
     ["Revolver"] = {
 
-        ["FOV"] = 5
+        ["FOV"] = 10.2
     },
 
     ["SMG"] = {
@@ -73,7 +73,7 @@ local GunSettings = {
 
     ["Shotgun"] = {
 
-        ["FOV"] = 5
+        ["FOV"] = 12
 
     }
 
